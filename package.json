@@ -22,7 +22,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "Leaflet.MultiOptionsPolyline": "hgoebl/Leaflet.MultiOptionsPolyline",
-    "bootstrap": "~3.4.1",
+    "bootstrap": "~5.0.0",
     "eslint": "^8.24.0",
     "eslint-config-prettier": "^8.5.0",
     "html2canvas": "^1.0.0-rc.5",
